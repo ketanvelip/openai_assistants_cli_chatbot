@@ -32,10 +32,10 @@ This repository demonstrates how to integrate the OpenAI API to create a command
     ```
 
 4. Set up your OpenAI API key:
- * Create a .env file in the root directory:
-    ```makefile
-    OPENAI_API_KEY=your-openai-api-key
-    ```
+    * Create a .env file in the root directory:
+        ```makefile
+        OPENAI_API_KEY=your-openai-api-key
+        ```
 
 5. Run the chatbot:
 
